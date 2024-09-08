@@ -186,6 +186,7 @@
             text-align: center;
         }
     </style>
+
     // javascript codes
     const populate = async (value, currency) => {
     let myStr = ""
